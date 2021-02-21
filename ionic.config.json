@@ -1,0 +1,7 @@
+{
+  "name": "toyBox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
